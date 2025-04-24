@@ -1,1 +1,2 @@
 # A-Simple-FPGA-based-Fall-Detector
+A dual FPGA based fall detection and response system designed to provide real-time monitoring and emergency communication. The child FPGA is equipped with an accelerometer to detect falls, an OLED display to provide visual feedback, and a keypad for user confirmation. The parent FPGA monitors the child device and responds to help requests via Bluetooth Low Energy (BLE). The system effectively detects falls, confirms help requests, and ensures rapid response through reliable communication between the child and parent devices.
